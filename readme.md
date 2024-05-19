@@ -7,6 +7,7 @@ Create a map of your books from goodreads.com
 ### Setup virtual environment
 
 ```bash
-
-./venv/scripts/activate
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+pip install -r requirements.txt
 ```
