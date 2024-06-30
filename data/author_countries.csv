@@ -3,15 +3,15 @@ A.G. Riddle,[]
 Adam Lashinsky,['United States of America']
 Adrian Tchaikovsky,['United Kingdom']
 Agatha Christie,"['United Kingdom of Great Britain and Ireland', 'United Kingdom']"
-Alan Moore,"['Republic of Ireland', 'Australia', 'United Kingdom', 'United Kingdom of Great Britain and Ireland', 'Russia']"
+Alan Moore,"['Australia', 'Republic of Ireland', 'United Kingdom of Great Britain and Ireland', 'United Kingdom', 'Russia']"
 Albert Camus,['France']
 Alberto Brandolini,['Italy']
 Aldous Huxley,['United Kingdom']
-Alexandre Dumas,"['France', 'Canada', 'Haiti']"
+Alexandre Dumas,"['Haiti', 'Canada', 'France']"
 Amina Elmi,[]
 Amor Towles,['United States of America']
 Amy C. Edmondson,['United States of America']
-Andy Weir,"['United States of America', 'United Kingdom']"
+Andy Weir,"['United Kingdom', 'United States of America']"
 Ann Leckie,['United States of America']
 Anne Rice,['United States of America']
 Anthony Doerr,['United States of America']
@@ -23,7 +23,7 @@ B.V. Larson,[]
 Becky Chambers,['United States of America']
 Belinda Bauer,"['Australia', 'United Kingdom', 'United States of America']"
 Ben H. Winters,['United States of America']
-Benjamín Labatut,"['Chile', 'Kingdom of the Netherlands']"
+Benjamín Labatut,"['Kingdom of the Netherlands', 'Chile']"
 Bent Flyvbjerg,['Denmark']
 Betty Smith,"['United Kingdom', 'United States of America']"
 Bill Bryson,"['Australia', 'United States of America']"
@@ -40,7 +40,7 @@ Charles Duhigg,['United States of America']
 Charles Stross,['United Kingdom']
 Chelsea Cain,['United States of America']
 China Miéville,['United Kingdom']
-Chris Kraus,"['United States of America', 'Germany']"
+Chris Kraus,"['Germany', 'United States of America']"
 Christian Jungersen,['Denmark']
 Christian Ørsted,[]
 Christina Wodtke,[]
@@ -48,37 +48,37 @@ Christopher McDougall,['United States of America']
 Chuck Dixon,['United States of America']
 Clay Shirky,['United States of America']
 Conn Iggulden,['United Kingdom']
-Cory Doctorow,"['United States of America', 'United Kingdom', 'Canada']"
-Dan Ariely,"['United States of America', 'Israel']"
+Cory Doctorow,"['Canada', 'United Kingdom', 'United States of America']"
+Dan Ariely,"['Israel', 'United States of America']"
 Dan Brown,"['Kingdom of England', 'United Kingdom', 'United States of America']"
 Dan Simmons,['United States of America']
 Daniel H. Pink,['United States of America']
 Daniel H. Wilson,['United States of America']
-Daniel Kahneman,"['United States of America', 'Israel']"
+Daniel Kahneman,"['Israel', 'United States of America']"
 Daniel S. Vacanti,[]
 Daniel Suarez,"['Mexico', 'United States of America']"
 David A. Leeming,[]
-David Allen,"['Republic of Ireland', 'United States of America', 'Australia', 'Kingdom of Great Britain', 'United Kingdom']"
+David Allen,"['Australia', 'Republic of Ireland', 'Kingdom of Great Britain', 'United Kingdom', 'United States of America']"
 David B.,['France']
 David Baldacci,['United States of America']
-David Epstein,"['Australia', 'United States of America', 'United Kingdom']"
+David Epstein,"['Australia', 'United Kingdom', 'United States of America']"
 David Graeber,['United States of America']
 David Lagercrantz,['Sweden']
-David Petersen,"['Dutch Republic', 'United States of America', 'Canada', 'United Kingdom', 'Wales', 'Germany']"
+David Petersen,"['Wales', 'Dutch Republic', 'Canada', 'United Kingdom', 'United States of America', 'Germany']"
 Dennis E. Taylor,[]
 Dinaw Mengestu,['United States of America']
 Donato Carrisi,['Italy']
 Donella H. Meadows,['United States of America']
 Dorthe Nors,['Denmark']
-Douglas Adams,"['United States of America', 'United Kingdom of Great Britain and Ireland', 'United Kingdom']"
+Douglas Adams,"['United Kingdom of Great Britain and Ireland', 'United Kingdom', 'United States of America']"
 Douglas Coupland,['Canada']
 Edgar H. Schein,"['Switzerland', 'United States of America']"
-Edward Snowden,"['Russia', 'United States of America', 'Canada']"
+Edward Snowden,"['Canada', 'Russia', 'United States of America']"
 Eliyahu M. Goldratt,['Israel']
 Elly Griffiths,['United Kingdom']
 Emily Brontë,['United Kingdom of Great Britain and Ireland']
-Emily St. John Mandel,"['United States of America', 'Canada']"
-Eric Evans,"['United States of America', 'United Kingdom of Great Britain and Ireland', 'United Kingdom']"
+Emily St. John Mandel,"['Canada', 'United States of America']"
+Eric Evans,"['United Kingdom of Great Britain and Ireland', 'United Kingdom', 'United States of America']"
 Eric Ries,['United States of America']
 Erlend Loe,['Norway']
 Ernest Cline,['United States of America']
@@ -125,13 +125,13 @@ Ida Holmegaard,[]
 Ijeoma Oluo,['United States of America']
 Ildefonso Falcones,['Spain']
 Inger Christensen,['Kingdom of Denmark']
-Isaac Asimov,"['Russian Soviet Federative Socialist Republic', 'United States of America', 'Russian Socialist Federative Soviet Republic']"
+Isaac Asimov,"['Russian Soviet Federative Socialist Republic', 'Russian Socialist Federative Soviet Republic', 'United States of America']"
 Isabel Wilkerson,['United States of America']
 J.K. Rowling,[]
 J.R.R. Tolkien,['United Kingdom']
-Jack Campbell,"['Australia', 'United Kingdom', 'United States of America', 'Canada']"
+Jack Campbell,"['Australia', 'Canada', 'United Kingdom', 'United States of America']"
 James Crumley,"['United Kingdom of Great Britain and Ireland', 'United Kingdom', 'United States of America']"
-James Joyce,"['Republic of Ireland', 'United States of America', 'Australia', 'United Kingdom', 'United Kingdom of Great Britain and Ireland']"
+James Joyce,"['Australia', 'Republic of Ireland', 'United Kingdom of Great Britain and Ireland', 'United Kingdom', 'United States of America']"
 James P. Womack,['United States of America']
 Jan Guillou,"['Sweden', 'France']"
 Jeff Patton,[]
@@ -164,7 +164,7 @@ Karl Ove Knausgård,['Norway']
 Karoline Stjernfelt,[]
 Karyl McBride,[]
 Katinka Agger,[]
-Kazuo Ishiguro,"['United Kingdom', 'Japan']"
+Kazuo Ishiguro,"['Japan', 'United Kingdom']"
 Ken Follett,"['Wales', 'United Kingdom']"
 Kent Beck,['United States of America']
 Kent Haruf,['United States of America']
@@ -207,18 +207,18 @@ Margaret Atwood,['Canada']
 Marianne Iben Hansen,['Denmark']
 Marjane Satrapi,"['France', 'Iran']"
 Mark Allen Smith,['United Kingdom']
-Mark Lawrence,"['England', 'United States of America', 'Canada', 'Australia', 'United Kingdom', 'South Africa']"
+Mark Lawrence,"['Australia', 'England', 'Canada', 'United Kingdom', 'South Africa', 'United States of America']"
 Mark Schwartz,['United States of America']
 Mark Seemann,[]
 Marko Kloos,['Germany']
 Martha Wells,['United States of America']
-Martin Jensen,"['Estonia', 'Norway', 'United States of America', 'Denmark', 'Sweden', 'Kingdom of Denmark']"
+Martin Jensen,"['Denmark', 'Estonia', 'Sweden', 'Kingdom of Denmark', 'United States of America', 'Norway']"
 Mary Doria Russell,['United States of America']
-Mary Wollstonecraft Shelley,"['Kingdom of Great Britain', 'United Kingdom of Great Britain and Ireland', 'United Kingdom']"
+Mary Wollstonecraft Shelley,"['United Kingdom of Great Britain and Ireland', 'United Kingdom', 'Kingdom of Great Britain']"
 Matias Faldbakken,['Norway']
 Matt Ruff,['United States of America']
 Matthew Mather,[]
-Matthew Skelton,"['United Kingdom', 'Canada']"
+Matthew Skelton,"['Canada', 'United Kingdom']"
 Max Barry,['Australia']
 Max Brooks,['United States of America']
 Michael C. Feathers,[]
@@ -226,15 +226,15 @@ Michael Chabon,['United States of America']
 Michael Crichton,['United States of America']
 Michael Katz Krefeld,['Kingdom of Denmark']
 Michael Lopp,[]
-Michael Scott,"['Republic of Ireland', 'England', 'United States of America', 'Scotland', 'Australia', 'New Zealand', 'United Kingdom', 'South Africa', 'United Kingdom of Great Britain and Ireland']"
+Michael Scott,"['Australia', 'Republic of Ireland', 'England', 'Scotland', 'United Kingdom of Great Britain and Ireland', 'United Kingdom', 'United States of America', 'South Africa', 'New Zealand']"
 Michael T. Nygard,[]
-Michael White,"['United States of America', 'Australia', 'New Zealand', 'Northern Ireland', 'Kingdom of Great Britain', 'United Kingdom', 'United Kingdom of Great Britain and Ireland']"
+Michael White,"['Australia', 'Northern Ireland', 'Kingdom of Great Britain', 'United Kingdom of Great Britain and Ireland', 'United Kingdom', 'United States of America', 'New Zealand']"
 Michel Houellebecq,['France']
 Michelle Obama,['United States of America']
-Mik Kersten,"['Poland', 'Canada']"
+Mik Kersten,"['Canada', 'Poland']"
 Mike Ashley,['United Kingdom']
 Mike Rother,[]
-Milan Kundera,"['statelessness', 'France', 'Czechoslovakia', 'Czech Republic']"
+Milan Kundera,"['Czechoslovakia', 'Czech Republic', 'France', 'statelessness']"
 Mira Grant,['United States of America']
 Mitch Albom,['United States of America']
 Mohamed Mbougar Sarr,['Senegal']
@@ -251,7 +251,7 @@ Nick Tune,[]
 Nicole Forsgren,['United States of America']
 Niels Overgaard,[]
 Niviaq Korneliussen,['Greenland']
-Nnedi Okorafor,"['United States of America', 'Nigeria']"
+Nnedi Okorafor,"['Nigeria', 'United States of America']"
 Octavia E. Butler,['United States of America']
 Olga Tokarczuk,['Poland']
 Oliver Burkeman,['United Kingdom']
@@ -264,13 +264,13 @@ Patrick Rothfuss,['United States of America']
 Patrick Süskind,['Germany']
 Paul Antony Jones,[]
 Paul Beatty,['United States of America']
-Paul Tremblay,"['United States of America', 'Canada']"
+Paul Tremblay,"['Canada', 'United States of America']"
 Paulo Coelho,['Brazil']
 Peter Clines,[]
 Peter F. Hamilton,['United Kingdom']
 Peter Høeg,['Kingdom of Denmark']
 Peter Sestoft,[]
-Peter Watts,"['United Kingdom', 'Canada', 'Malaysia', 'New Zealand']"
+Peter Watts,"['Malaysia', 'Canada', 'United Kingdom', 'New Zealand']"
 Peter Wohlleben,['Germany']
 Philip Pullman,['United Kingdom']
 Phoebe Robinson,['United States of America']
@@ -278,14 +278,14 @@ Pierce Brown,['United States of America']
 Pierre Henri Kuaté,[]
 Ray Bradbury,['United States of America']
 Raymond E. Feist,['United States of America']
-Richard Adams,"['United States of America', 'Canada', 'Kingdom of England', 'New Zealand', 'Kingdom of Great Britain', 'United Kingdom', 'United Kingdom of Great Britain and Ireland']"
-Richard Phillips,"['United States of America', 'Jamaica', 'Kingdom of England', 'Kingdom of Great Britain', 'United Kingdom', 'United Kingdom of Great Britain and Ireland']"
+Richard Adams,"['Kingdom of England', 'Kingdom of Great Britain', 'United Kingdom of Great Britain and Ireland', 'Canada', 'United Kingdom', 'United States of America', 'New Zealand']"
+Richard Phillips,"['Kingdom of England', 'Kingdom of Great Britain', 'United Kingdom of Great Britain and Ireland', 'United Kingdom', 'United States of America', 'Jamaica']"
 Richard Sheridan,[]
 Robert C. Martin,['United States of America']
-Robert Jordan,"['United States of America', 'Canada', 'Austria', 'United Kingdom', 'Germany']"
-Robert Kirkman,['United States of America']
+Robert Jordan,"['Austria', 'Canada', 'United Kingdom', 'United States of America', 'Germany']"
+Robert Kirkman,[]
 Robert M. Pirsig,['United States of America']
-Robert Wilson,"['United States of America', 'Canada', 'Australia', 'Kingdom of Scotland', 'Kingdom of England', 'New Zealand', 'Kingdom of Great Britain', 'United Kingdom', 'http://www.wikidata.org/.well-known/genid/62a0c626d05426b8941a3bca5e0211d6', 'United Kingdom of Great Britain and Ireland']"
+Robert Wilson,"['Kingdom of England', 'Australia', 'Kingdom of Scotland', 'Kingdom of Great Britain', 'United Kingdom of Great Britain and Ireland', 'Canada', 'United Kingdom', 'United States of America', 'http://www.wikidata.org/.well-known/genid/62a0c626d05426b8941a3bca5e0211d6', 'New Zealand']"
 Robin DiAngelo,['United States of America']
 Robin Hobb,['United States of America']
 Roger Fisher,"['United Kingdom', 'United States of America']"
@@ -301,7 +301,7 @@ Scott Chacon,['United States of America']
 Scott Jurek,['United States of America']
 Sebastian Klein,['Denmark']
 Sebastian Lynggard,[]
-Seneca,"['United States of America', 'Ancient Rome']"
+Seneca,"['Ancient Rome', 'United States of America']"
 Seth Godin,['United States of America']
 Shelby Van Pelt,[]
 Sherrie Eldridge,[]
@@ -315,8 +315,8 @@ Siri Pettersen,['Norway']
 Sissel-Jo Gazan,['Denmark']
 Sofie Hagen,['Kingdom of Denmark']
 Stefan Ahnhem,['Sweden']
-Stefan Zweig,"['Austria-Hungary', 'Austria']"
-Stephen King,"['Australia', 'United Kingdom', 'United States of America', 'New Zealand']"
+Stefan Zweig,"['Austria', 'Austria-Hungary']"
+Stephen King,"['Australia', 'United Kingdom', 'New Zealand', 'United States of America']"
 Stephen Moss,['United Kingdom']
 Stephenie Meyer,['United States of America']
 Steve Freeman,"['United Kingdom', 'United States of America']"
@@ -341,11 +341,11 @@ Thich Nhat Hanh,"['France', 'Vietnam']"
 Thomas Clemen,[]
 Thomas Enger,['Norway']
 Thomas Korsgaard,['Denmark']
-Thomas Mann,"['United States of America', 'Nazi Germany', 'New Zealand', 'German Empire', 'United Kingdom', 'Czechoslovakia', 'Germany', 'Weimar Republic']"
+Thomas Mann,"['New Zealand', 'Nazi Germany', 'German Empire', 'Czechoslovakia', 'United Kingdom', 'United States of America', 'Weimar Republic', 'Germany']"
 Toni Morrison,['United States of America']
 Tove Alsterdal,['Sweden']
 Trudi Canavan,['Australia']
-Umberto Eco,"['Kingdom of Italy', 'Italy']"
+Umberto Eco,"['Italy', 'Kingdom of Italy']"
 Ursula K. Le Guin,['United States of America']
 V.E. Schwab,['United States of America']
 Vaughn Heppner,[]
@@ -355,11 +355,11 @@ Veronica Roth,['United States of America']
 Viktor E. Frankl,['Austria']
 Virginia Woolf,['United Kingdom']
 Vladik Khononov,[]
-Vladimir Nabokov,"['Russian Empire', 'United States of America']"
+Vladimir Nabokov,"['United States of America', 'Russian Empire']"
 Walter Isaacson,['United States of America']
 Wes McKinney,['United States of America']
 Wildbow,[]
-William Gibson,"['United States of America', 'Canada', 'Australia', 'Kingdom of England', 'Kingdom of Great Britain', 'United Kingdom', 'Sweden', 'United Kingdom of Great Britain and Ireland']"
+William Gibson,"['Australia', 'Kingdom of England', 'Kingdom of Great Britain', 'United Kingdom of Great Britain and Ireland', 'Canada', 'United Kingdom', 'Sweden', 'United States of America']"
 William Golding,['United Kingdom']
 William Hertling,[]
 William Peter Blatty,['United States of America']
