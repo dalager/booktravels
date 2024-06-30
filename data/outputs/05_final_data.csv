@@ -1,0 +1,370 @@
+Unnamed: 0,Author,Average Rating,Books,Book Count,Countries,Gender
+0,A.G. Riddle,3.8766666666666665,"['Departure', 'The Atlantis Plague (The Origin Mystery, #2)', 'The Atlantis Gene (The Origin Mystery, #1)']",3,['United States of America'],M
+1,Adam Lashinsky,3.83,"[""Inside Apple -- From Steve Jobs Down to the Janitor: How America's Most Successful—and Most Secretive—Big Company Really Works""]",1,['United States of America'],M
+2,Adrian Tchaikovsky,4.3,"['Children of Time (Children of Time, #1)']",1,['United Kingdom'],M
+3,Agatha Christie,4.28,['And Then There Were None'],1,['United Kingdom'],F
+4,Alan Moore,4.38,['Watchmen'],1,['United Kingdom'],M
+5,Albert Camus,4.02,"['The Plague', 'The Stranger']",2,['France'],M
+6,Alberto Brandolini,3.85,['Introducing EventStorming'],1,['Italy'],M
+7,Aldous Huxley,3.99,['Brave New World'],1,['United Kingdom'],M
+8,Alexandre Dumas,4.3,['The Count of Monte Cristo'],1,['France'],M
+9,Amina Elmi,4.13,['Barbar: [Tavshedens objekt]'],1,"['Somalia', 'Denmark']",F
+10,Amor Towles,3.905,"['You Have Arrived at Your Destination', 'A Gentleman in Moscow']",2,['United States of America'],M
+11,Amy C. Edmondson,3.99,"['The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth']",1,['United States of America'],F
+12,Andy Weir,4.0375,"['Project Hail Mary', 'Randomize', 'Artemis', 'The Martian']",4,['United States of America'],M
+13,Ann Leckie,3.99,"['Ancillary Justice (Imperial Radch, #1)']",1,['United States of America'],F
+14,Anne Rice,4.02,"['Interview with the Vampire (The Vampire Chronicles, #1)']",1,['United States of America'],F
+15,Anthony Doerr,4.32,['All the Light We Cannot See'],1,['United States of America'],M
+16,Antoine de Saint-Exupéry,4.32,['The Little Prince'],1,['France'],M
+17,Arthur C. Clarke,4.145,"['Rendezvous with Rama (Rama, #1)', '2001: A Space Odyssey (Space Odyssey, #1)']",2,['United Kingdom'],M
+18,Astrid Lindgren,4.323333333333333,"[""Ronia, the Robber's Daughter"", 'The Brothers Lionheart', 'Alle vi børn i Bulderby']",3,['Sweden'],F
+19,Atul Gawande,4.04,['The Checklist Manifesto: How to Get Things Right'],1,['United States of America'],M
+20,B.V. Larson,3.768,"['Rebellion (Star Force, #3)', 'Extinction (Star Force, #2)', 'The Savant (Imperium: Mech, #2)', 'The Parent (Imperium: Mech, #1)', 'Swarm (Star Force, #1)']",5,['United States of America'],M
+21,Becky Chambers,4.22,"['Record of a Spaceborn Few (Wayfarers, #3)', 'The Long Way to a Small, Angry Planet (Wayfarers, #1)', 'A Closed and Common Orbit (Wayfarers, #2)']",3,['United States of America'],F
+22,Belinda Bauer,3.81,['Snap'],1,['United Kingdom'],F
+23,Ben H. Winters,3.77,"['The Last Policeman (The Last Policeman, #1)']",1,['United States of America'],M
+24,Benjamín Labatut,4.244999999999999,"['The MANIAC', 'When We Cease to Understand the World']",2,['Netherlands'],M
+25,Bent Flyvbjerg,4.32,"['How Big Things Get Done: The Surprising Factors That Determine the Fate of Every Project, from Home Renovations to Space Exploration and Everything In Between']",1,['Denmark'],M
+26,Betty Smith,4.29,['A Tree Grows in Brooklyn'],1,['United States of America'],F
+27,Bill Bryson,4.135,"['A Walk in the Woods: Rediscovering America on the Appalachian Trail', 'A Short History of Nearly Everything']",2,['United States of America'],M
+28,Blake Crouch,4.145,"['Dark Matter', 'Recursion']",2,['United States of America'],M
+29,Bram Stoker,4.01,['Dracula'],1,['Republic of Ireland'],M
+30,Brandon Sanderson,4.503333333333334,"['Starsight (Skyward, #2)', 'Skyward (Skyward, #1)', 'The Way of Kings (The Stormlight Archive, #1)']",3,['United States of America'],M
+31,Brant Cooper,4.11,"['The Lean Entrepreneur: How Visionaries Create Products, Innovate with New Ventures, and Disrupt Markets']",1,['United States of America'],M
+32,Brian Christian,4.26,"['The Alignment Problem: Machine Learning and Human Values', 'Algorithms to Live By: The Computer Science of Human Decisions']",2,['United States of America'],M
+33,Brian K. Vaughan,4.3925,"['Saga, Volume 4', 'Saga, Volume 3', 'Saga, Volume 2', 'Saga, Volume 1']",4,['United States of America'],M
+34,Bryan O'Sullivan,3.46,['Mercurial: The Definitive Guide'],1,['Republic of Ireland'],M
+35,C.S. Lewis,4.255,"['The Chronicles of Narnia (The Chronicles of Narnia, #1-7)', 'The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)']",2,['United Kingdom'],M
+36,Camille Fournier,4.27,"[""The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change""]",1,['France'],F
+37,Charles Duhigg,4.13,['The Power of Habit: Why We Do What We Do in Life and Business'],1,['United States of America'],M
+38,Charles Stross,3.9266666666666654,"['Glasshouse', 'Rule 34 (Halting State, #2)', 'Halting State (Halting State, #1)', 'The Fuller Memorandum (Laundry Files, #3)', 'The Jennifer Morgue (Laundry Files, #2)', 'The Atrocity Archives (Laundry Files, #1)']",6,['United Kingdom'],M
+39,Chelsea Cain,3.93,"['Heartsick (Archie Sheridan & Gretchen Lowell, #1)']",1,['United States of America'],F
+40,China Miéville,3.85,"['Kraken', 'Embassytown', 'The City & the City', 'Perdido Street Station (New Crobuzon, #1)']",4,['United Kingdom'],M
+41,Chris Kraus,3.49,['I Love Dick'],1,"['United States of America', 'Germany']",F
+42,Christian Jungersen,3.7,"['Undtagelsen', 'Du forsvinder']",2,['Denmark'],M
+43,Christian Ørsted,4.0200000000000005,"['Fatale forandringer - når ledelse skaber modstand mod forandring', 'Livsfarlig ledelse : Forstå de psykologiske mekanismer, der styrer dit arbejdsliv']",2,['Denmark'],M
+44,Christina Wodtke,3.97,['Radical Focus : Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )'],1,['United States of America'],F
+45,Christopher McDougall,4.3,"['Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen']",1,['United States of America'],M
+46,Chuck Dixon,4.51,['The Hobbit'],1,['United States of America'],M
+47,Clay Shirky,3.78,['Here Comes Everybody: The Power of Organizing Without Organizations'],1,['United States of America'],M
+48,Conn Iggulden,4.37,"['Fjendeland (Conqueror book 2)', 'Genghis: Birth of an Empire (Conqueror, #1)']",2,['United Kingdom'],M
+49,Cory Doctorow,3.74,"['Down and Out in the Magic Kingdom', 'Pirate Cinema', 'Little Brother (Little Brother, #1)']",3,['Canada'],M
+50,Dan Ariely,4.12,['Predictably Irrational: The Hidden Forces That Shape Our Decisions'],1,"['Israel', 'United States of America']",M
+51,Dan Brown,3.9166666666666665,"['Origin (Robert Langdon, #5)', 'The Da Vinci Code (Robert Langdon, #2)', 'Angels & Demons (Robert Langdon, #1)']",3,['United States of America'],M
+52,Dan Simmons,4.26,"['Hyperion (Hyperion Cantos, #1)']",1,['United States of America'],M
+53,Daniel H. Pink,3.95,['Drive: The Surprising Truth About What Motivates Us'],1,['United States of America'],M
+54,Daniel H. Wilson,3.7,"['Robopocalypse (Robopocalypse, #1)']",1,['United States of America'],M
+55,Daniel Kahneman,4.18,"['Thinking, Fast and Slow']",1,"['Israel', 'United States of America']",M
+56,Daniel S. Vacanti,4.4,"[""When Will It Be Done?: Lean-Agile Forecasting to Answer Your Customers' Most Important Question""]",1,['United States of America'],M
+57,Daniel Suarez,4.058,"['Change Agent', 'Influx', 'Kill Decision', 'Freedom™ (Daemon #2)', 'Daemon (Daemon, #1)']",5,['United States of America'],M
+58,David A. Leeming,4.31,['James Baldwin'],1,['United States of America'],M
+59,David Allen,4.01,['Getting Things Done: The Art of Stress-Free Productivity'],1,['United States of America'],M
+60,David B.,3.89,['Epileptic'],1,['France'],M
+61,David Baldacci,4.085,"['One Good Deed (Archer, #1)', 'The Camel Club (The Camel Club, #1)']",2,['United States of America'],M
+62,David Epstein,4.14,['Range: Why Generalists Triumph in a Specialized World'],1,"['United Kingdom', 'United States of America', 'Australia']",M
+63,David Graeber,4.2,['The Dawn of Everything: A New History of Humanity'],1,['United States of America'],M
+64,David Lagercrantz,3.8,"[""The Girl in the Spider's Web (Millennium, #4)"", 'Det der ikke slår os ihjel (Millennium, #4)']",2,['Sweden'],M
+65,David Petersen,4.01,"['Mouse Guard: Fall 1152 (Mouse Guard, #1)']",1,['United States of America'],M
+66,Dennis E. Taylor,4.28,"['We Are Legion (We Are Bob) (Bobiverse, #1)']",1,['Canada'],M
+67,Dinaw Mengestu,3.48,"['How to Read the Air', 'The Beautiful Things That Heaven Bears']",2,['Ethiopia'],M
+68,Donato Carrisi,4.18,['The Whisperer'],1,['Italy'],M
+69,Donella H. Meadows,4.21,['Thinking In Systems: A Primer'],1,['United States of America'],F
+70,Dorthe Nors,3.41,"['Kort over Canada', 'Spejl, skulder, blink', 'Kantslag', 'Minna mangler et øvelokale']",4,['Denmark'],F
+71,Douglas Adams,4.305,"[""The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)"", ""The Hitchhiker’s Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)""]",2,['United Kingdom'],M
+72,Douglas Coupland,3.6925,"['Shampoo Planet', 'Eleanor Rigby', 'JPod', 'Microserfs']",4,['Canada'],M
+73,Edgar H. Schein,3.75,['Humble Inquiry: The Gentle Art of Asking Instead of Telling'],1,"['Switzerland', 'United States of America']",M
+74,Edward Snowden,4.3,['Permanent Record'],1,"['United States of America', 'Russia', 'Canada']",M
+75,Eliyahu M. Goldratt,4.08,['The Goal: A Process of Ongoing Improvement'],1,['Israel'],M
+76,Elly Griffiths,3.93,"['The Crossing Places (Ruth Galloway, #1)']",1,['United Kingdom'],F
+77,Emily Brontë,3.89,['Wuthering Heights'],1,['United Kingdom'],F
+78,Emily St. John Mandel,4.075,"['Sea of Tranquility', 'Station Eleven']",2,['Canada'],F
+79,Eric Evans,4.15,['Domain-Driven Design: Tackling Complexity in the Heart of Software'],1,['United States of America'],M
+80,Eric Ries,4.11,['The Lean Startup'],1,['United States of America'],M
+81,Erlend Loe,3.91,"['Doppler (Doppler, #1)']",1,['Norway'],M
+82,Ernest Cline,3.89,"['Armada', 'Ready Player One (Ready Player One, #1)']",2,['United States of America'],M
+83,Ernest Hemingway,4.0,"['For Whom the Bell Tolls', 'A Moveable Feast']",2,['United States of America'],M
+84,Euripides,3.65,"[""Euripides' Hippolytos (Greek Tragedies Retold)""]",1,['Greece'],M
+85,F. Scott Fitzgerald,3.93,['The Great Gatsby'],1,['United States of America'],M
+86,Frank Herbert,4.04,"['Children of Dune (Dune, #3)', 'Dune Messiah (Dune, #2)', 'Dune (Dune, #1)']",3,['United States of America'],M
+87,Franz Kafka,3.915,"['The Trial', 'The Metamorphosis']",2,['Czech Republic'],M
+88,Frederick P. Brooks Jr.,4.01,['The Mythical Man-Month: Essays on Software Engineering'],1,['United States of America'],M
+89,Fredrik Backman,4.38,['A Man Called Ove'],1,['Sweden'],M
+90,Fyodor Dostoevsky,4.24,"['Idioten (Rosinantes klassikerserie)', 'Crime and Punishment']",2,['Russia'],M
+91,Gabriel García Márquez,4.075,"['Strange Pilgrims: Twelve Stories', 'One Hundred Years of Solitude']",2,['Colombia'],M
+92,Gene Kim,4.199999999999999,"['The Unicorn Project', 'The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations', 'Beyond The Phoenix Project: The Origins and Evolution Of DevOps (Official Transcript of The Audio Series)', 'The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win']",4,['United States of America'],M
+93,Geoffrey B. West,4.12,"['Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies']",1,['United Kingdom'],M
+94,George Lakoff,4.09,['Metaphors We Live By'],1,['United States of America'],M
+95,George Orwell,4.19,['1984'],1,['United Kingdom'],M
+96,George R.R. Martin,4.42,"['A Game of Thrones (A Song of Ice and Fire #1)', 'A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast for Crows (A Song of Ice and Fire #1-4)', 'A Dance with Dragons (A Song of Ice and Fire, #5)', 'A Feast for Crows (A Song of Ice and Fire, #4)', 'A Storm of Swords (A Song of Ice and Fire, #3)', 'A Clash of Kings  (A Song of Ice and Fire, #2)']",6,['United States of America'],M
+97,Gillian Flynn,4.13,['Gone Girl'],1,['United States of America'],F
+98,Glenn Bech,4.31,['Jeg anerkender ikke længere jeres autoritet'],1,['Denmark'],M
+99,Glenn Cooper,3.78,"['Library of the Dead (Will Piper, #1)']",1,['United States of America'],M
+100,Glenn Greenwald,4.07,"['No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State']",1,['United States of America'],M
+101,Greg Egan,4.19,"['Axiomatic', 'Diaspora']",2,['Australia'],M
+102,Guillermo del Toro,3.81,"['The Fall (The Strain Trilogy, #2)', 'The Strain (The Strain Trilogy, #1)']",2,['Mexico'],M
+103,Halfdan Rasmussen,4.33,['Noget om Nanette'],1,['Denmark'],M
+104,Hannu Rajaniemi,3.83,['The Quantum Thief (Jean le Flambeur #1)'],1,['Finland'],M
+105,Hans Rosling,4.36,"[""Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think""]",1,['Sweden'],M
+106,Hans Scherfig,3.72,['Det forsømte forår'],1,['Denmark'],M
+107,Haruki Murakami,3.99,"['Hvad jeg taler om når jeg taler om at løbe', '1Q84 (1Q84, #1-3)', 'Kafka on the Shore', 'Hard-Boiled Wonderland and the End of the World', 'Sputnik Sweetheart', 'Dance Dance Dance']",6,['Japan'],M
+108,Helen Beal,4.04,"['Investments Unlimited: A Novel About DevOps, Security, Audit Compliance, and Thriving in the Digital Age']",1,['United Kingdom'],F
+109,Helle Helle,3.58,['BOB'],1,['Denmark'],F
+110,Henrik Kniberg,4.085,"['Scrum and XP from the Trenches', 'Kanban and Scrum - making the most of both (Enterprise Software Development)']",2,['Sweden'],M
+111,Henrik Nordbrandt,3.83,['Så en morgen'],1,['Denmark'],M
+112,Henrik Pontoppidan,4.2475000000000005,"['Fra hytterne', 'Lykke-Per', 'De Dødes Rige', 'Lykke-Per']",4,['Denmark'],M
+113,Henry David Thoreau,3.78,['Walden'],1,['United States of America'],M
+114,Herman Melville,3.55,"['Moby-Dick or, The Whale']",1,['United States of America'],M
+115,Hugh Howey,4.214,"['Shift (Silo, #2)', 'Dust (Silo, #3)', 'Second Shift: Order (Shift, #2)', 'First Shift: Legacy (Shift, #1)', 'Wool Omnibus (Silo, #1)']",5,['United States of America'],M
+116,Håkan Nesser,3.59,"[""Mind's Eye (Inspector Van Veeteren #1)""]",1,['Sweden'],M
+117,Iain Banks,3.79,"['The Crow Road', 'Stonemouth', 'The Wasp Factory', 'The Quarry', 'The Steep Approach to Garbadale']",5,['United Kingdom'],M
+118,Iain M. Banks,4.075,"['Consider Phlebas (Culture, #1)', 'The Hydrogen Sonata (Culture, #10)', 'Inversions (Culture, #6)', 'Surface Detail (Culture, #9)', 'Transition', 'Excession (Culture, #5)', 'Feersum Endjinn', 'The Algebraist', 'Against a Dark Background', 'Matter (Culture, #8)', 'Look to Windward (Culture, #7)', 'The Player of Games (Culture, #2)']",12,['United Kingdom'],M
+119,Ian Rankin,4.09,"['The Hanging Garden (Inspector Rebus, #9)']",1,['United Kingdom'],M
+120,Ian Tregillis,3.92,"['The Coldest War (The Milkweed Triptych, #2)', 'Bitter Seeds (The Milkweed Triptych, #1)']",2,['United States of America'],M
+121,Iben Krarup Høgsberg,4.5,"['Adoptionshåndbogen - Det adopterede barn i familien, i dagtilbud og skole']",1,['Denmark'],F
+122,Ida Holmegaard,4.12,['Look - Læsninger'],1,['Denmark'],F
+123,Ijeoma Oluo,4.5,['So You Want to Talk About Race'],1,['United States of America'],F
+124,Ildefonso Falcones,4.16,"['La catedral del mar (La catedral del mar, #1)']",1,['Spain'],M
+125,Inger Christensen,4.35,['alfabet'],1,['Denmark'],F
+126,Isaac Asimov,4.17,"['Foundation (Foundation, #1)']",1,['United States of America'],M
+127,Isabel Wilkerson,4.53,['Caste: The Origins of Our Discontents'],1,['United States of America'],F
+128,J.K. Rowling,4.556666666666667,"['Harry Potter and the Chamber of Secrets (Harry Potter, #2)', 'Harry Potter Series Box Set (Harry Potter, #1-7)', 'Harry Potter and the Order of the Phoenix (Harry Potter, #5)', ""Harry Potter and the Sorcerer's Stone (Harry Potter, #1)"", 'Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)', 'Harry Potter and the Deathly Hallows (Harry Potter, #7)']",6,['United Kingdom'],F
+129,J.R.R. Tolkien,4.476666666666667,"['J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings', 'The Lord of the Rings', 'The Two Towers (The Lord of the Rings, #2)', 'The Return of the King (The Lord of the Rings, #3)', 'The Fellowship of the Ring (The Lord of the Rings, #1)', 'The Hobbit (The Lord of the Rings, #0)']",6,['United Kingdom'],M
+130,Jack Campbell,4.0216666666666665,"['Victorious (The Lost Fleet, #6)', 'Relentless (The Lost Fleet, #5)', 'Valiant (The Lost Fleet, #4)', 'Courageous (The Lost Fleet, #3)', 'Fearless (The Lost Fleet, #2)', 'Dauntless (The Lost Fleet, #1)']",6,['United States of America'],M
+131,James Crumley,4.05,"['The Last Good Kiss (C.W. Sughrue, #1)']",1,['United States of America'],M
+132,James Joyce,3.75,['Ulysses'],1,['Republic of Ireland'],M
+133,James P. Womack,3.92,['Lean Thinking: Banish Waste and Create Wealth in Your Corporation'],1,['United States of America'],M
+134,Jan Guillou,4.08,"['Tempelridderen', 'The Road to Jerusalem (The Knight Templar, #1)']",2,['Sweden'],M
+135,Jeff Patton,4.2,"['User Story Mapping: Discover the Whole Story, Build the Right Product']",1,['United States of America'],M
+136,Jeff Sutherland,4.15,['Scrum: The Art of Doing Twice the Work in Half the Time'],1,['United States of America'],M
+137,Jeff VanderMeer,3.77,"['Annihilation (Southern Reach, #1)']",1,['United States of America'],M
+138,Jennifer Foehner Wells,3.83,"['Fluency (Confluence, #1)']",1,['United States of America'],F
+139,Jim Benson,3.78,['Personal Kanban: Mapping Work Navigating Life'],1,['United States of America'],M
+140,Jim Butcher,4.033333333333333,"['Storm Front (The Dresden Files, #1)', 'Fool Moon (The Dresden Files, #2)', 'Grave Peril (The Dresden Files, #3)']",3,['United States of America'],M
+141,Jo Nesbø,3.893333333333333,"['The Redeemer (Harry Hole, #6)', 'Marekors (Harry Hole, #5)', 'Nemesis (Harry Hole, #4)', 'The Redbreast (Harry Hole, #3)', 'Cockroaches (Harry Hole, #2)', 'Flaggermusmannen (Harry Hole, #1)']",6,['Norway'],M
+142,Joe Abercrombie,4.3,"['Last Argument of Kings (The First Law, #3)', 'Before They Are Hanged (The First Law, #2)', 'The Blade Itself (The First Law, #1)']",3,['United Kingdom'],M
+143,Joe Soll,4.34,['Adoption Healing... a path to recovery'],1,['United States of America'],M
+144,Johan Harstad,4.42,"['Max, Mischa og Tetoffensiven']",1,['Norway'],M
+145,Johann Hari,4.27,['Lost Connections: Uncovering the Real Causes of Depression - and the Unexpected Solutions'],1,['United Kingdom'],M
+146,Johannes V. Jensen,3.72,['Kongens fald'],1,['Denmark'],M
+147,John Ousterhout,4.21,['A Philosophy of Software Design'],1,['United States of America'],M
+148,John Scalzi,4.023999999999999,"['The Dispatcher (The Dispatcher, #1)', 'Lock In (Lock In, #1)', 'Fuzzy Nation (Fuzzy Sapiens, #7)', 'Redshirts', ""Old Man's War (Old Man's War, #1)""]",5,['United States of America'],M
+149,John Steinbeck,3.83,['Tortilla Flat'],1,['United States of America'],M
+150,John Twelve Hawks,3.815,"['The Dark River (Fourth Realm, #2)', 'The Traveler (Fourth Realm, #1)']",2,['United States of America'],M
+151,John Verdon,3.88,"['Think of a Number (Dave Gurney, #1)']",1,['United States of America'],M
+152,John le Carré,3.46,['The Mission Song'],1,['United Kingdom'],M
+153,Johnny Cash,4.02,['Cash'],1,['United States of America'],M
+154,Jonathan Franzen,3.83,['The Corrections'],1,['United States of America'],M
+155,Jonathan Renshaw,4.35,"['Dawn of Wonder (The Wakening, #1)']",1,['United States of America'],M
+156,Jonathan Safran Foer,3.97,['Extremely Loud & Incredibly Close'],1,['United States of America'],M
+157,Jonathan Smart,4.24,['Sooner Safer Happier: Antipatterns and Patterns for Business Agility'],1,['United Kingdom'],M
+158,Joseph DiBella,4.52,['Mind War; The Singularity'],1,['United States of America'],M
+159,Jostein Gaarder,3.96,['Sophie’s World'],1,['Norway'],M
+160,Jussi Adler-Olsen,3.894,"['The Keeper of Lost Causes (Department Q, #1)', 'Washington Dekretet', 'Journal 64 (Department Q, #4)', 'Flaskepost fra P (Afdeling Q, #3)', 'Fasandræberne (Afdeling Q, #2)']",5,['Denmark'],M
+161,Karl Ove Knausgård,4.25,"['Min kamp 5 (Min kamp, #5)', 'Min kamp 4 (Min kamp, #4)', 'Min kamp 3 (Min kamp, #3)', 'Min kamp 2 (Min kamp, #2)', 'Min kamp 1 (Min kamp, #1)']",5,['Norway'],M
+162,Karoline Stjernfelt,4.22,"['Kongen (I morgen bliver bedre, #1)']",1,['Denmark'],F
+163,Karyl McBride,4.2,['Will I Ever Be Good Enough? Healing the Daughters of Narcissistic Mothers'],1,['United States of America'],F
+164,Katinka Agger,3.71,['Du ved ingenting om døden'],1,['Denmark'],F
+165,Kazuo Ishiguro,3.945,"['The Remains of the Day', 'Klara and the Sun']",2,"['United Kingdom', 'Japan']",M
+166,Ken Follett,4.046666666666667,"['Eye of the Needle', 'The Pillars of the Earth (Kingsbridge, #1)', 'The Hammer of Eden']",3,['Wales'],M
+167,Kent Beck,3.61,['Implementation Patterns'],1,['United States of America'],M
+168,Kent Haruf,4.03,"['Plainsong (Plainsong, #1)']",1,['United States of America'],M
+169,Kerry Patterson,4.07,['Crucial Conversations: Tools for Talking When Stakes are High'],1,['United States of America'],F
+170,Khaled Hosseini,4.385,"['A Thousand Splendid Suns', 'The Kite Runner']",2,['United States of America'],M
+171,Kim Blæsbjerg,3.95,"['De bedste familier', 'Rådhusklatreren']",2,['Denmark'],M
+172,Kim Faber,3.895,"['Skyggeriget (En Signe Christiansen og Martin Juncker-krimi, #4)', 'Kvæler (En Signe Christiansen og Martin Juncker-krimi, #3)', 'Satans sommer (En Signe Christiansen og Martin Juncker-krimi, #2)', 'Vinterland (En Signe Christiansen og Martin Juncker-krimi, #1)']",4,['Denmark'],M
+173,Kim Leine,3.96,"['Profeterne i Evighedsfjorden (Grønlands-trilogi, #1)']",1,['Norway'],M
+174,Kim Malone Scott,4.07,['Radical Candor: Be a Kickass Boss Without Losing Your Humanity'],1,['United States of America'],F
+175,Kim Stanley Robinson,3.86,"['Red Mars (Mars Trilogy, #1)']",1,['United States of America'],M
+176,Knud Romer,3.75,['Den som blinker er bange for døden'],1,['Denmark'],M
+177,Knut Hamsun,4.05,['Hunger'],1,['Norway'],M
+178,Kristian Bang Foss,3.76,['Frank vender hjem'],1,['Denmark'],M
+179,Kristin Leer,4.0,['ADHD: Viden og redskaber til at mestre livet'],1,['Norway'],F
+180,Kristin Vego,3.51,['Se en siste gang på alt vakkert'],1,['Denmark'],F
+181,Kurt Vonnegut Jr.,4.1,['Slaughterhouse-Five'],1,['United States of America'],M
+182,Kyle Simpson,4.52,"[""You Don't Know JS: this & Object Prototypes"", ""You Don't Know JS: Scope and Closures (You Don't Know JS, #2)""]",2,['United States of America'],M
+183,Larry Niven,4.01,"[""The Mote in God's Eye (Moties, #1)"", 'Ringworld (Ringworld, #1)']",2,['United States of America'],M
+184,Lars Kepler,3.74,"['The Hypnotist (Joona Linna, #1)']",1,['Denmark'],M
+185,Lars Tvede,3.78,"['Bobler, bullshit og børsfest']",1,['Denmark'],M
+186,Laszlo Bock,4.13,['Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead'],1,['United States of America'],M
+187,Lee Child,4.128823529411765,"['A Wanted Man (Jack Reacher, #17)', 'Gone Tomorrow (Jack Reacher, #13)', 'The Affair (Jack Reacher, #16)', 'Worth Dying For (Jack Reacher, #15)', '61 Hours (Jack Reacher, #14)', 'Nothing to Lose (Jack Reacher, #12)', 'Bad Luck and Trouble (Jack Reacher, #11)', 'The Hard Way (Jack Reacher, #10)', 'One Shot (Jack Reacher, #9)', 'Without Fail (Jack Reacher, #6)', 'The Enemy (Jack Reacher, #8)', 'Persuader (Jack Reacher, #7)', 'Tripwire  (Jack Reacher, #3)', 'Killing Floor (Jack Reacher #1)', 'Die Trying (Jack Reacher, #2)', 'Echo Burning (Jack Reacher, #5)', 'Running Blind (Jack Reacher, #4)']",17,['United Kingdom'],M
+188,Leif Davidsen,3.475,"['Min broders vogter', 'På udkig efter Hemingway']",2,['Denmark'],M
+189,Leigh Bardugo,4.48,"['Six of Crows (Six of Crows, #1)']",1,['United States of America'],M
+190,Leo Tolstoy,4.09,['Anna Karenina'],1,['Russia'],M
+191,Leonard Richardson,3.86,['RESTful Web Services'],1,['South Africa'],M
+192,Linda Babcock,3.91,"[""The No Club: Putting a Stop to Women's Dead-End Work""]",1,['United States of America'],F
+193,Liu Cixin,4.31,"[""Death's End (Remembrance of Earth’s Past, #3)"", 'The Dark Forest (Remembrance of Earth’s Past, #2)', 'The Three-Body Problem (Remembrance of Earth’s Past, #1)']",3,"[""People's Republic of China""]",M
+194,Lotte Hammer,3.2066666666666666,"['Alting har sin pris (Konrad Simonsen, #2)', 'The Hanging (Konrad Simonsen, #1)', 'Svinehunde (Konrad Simonsen, #1)']",3,['Denmark'],F
+195,Lotte Palsteen,4.33,['Din teenager er dit spejl - Tør du kigge i det?'],1,['Denmark'],F
+196,Maaza Mengiste,3.95,"[""Beneath the Lion's Gaze""]",1,['Ethiopia'],F
+197,Madeline Miller,4.24,['Circe'],1,['United States of America'],F
+198,Mai Jia,3.27,['Decoded'],1,"[""People's Republic of China""]",M
+199,Malcolm Gladwell,4.05,"['Outliers: The Story of Success', 'Blink: The Power of Thinking Without Thinking', 'The Tipping Point: How Little Things Can Make a Big Difference']",3,['United Kingdom'],M
+200,Manu Sareen,3.87,['Hører du overhovedet efter?!'],1,['Denmark'],M
+201,Marcel Proust,4.15,"['Du côté de chez Swann (À la recherche du temps perdu, #1)']",1,['France'],M
+202,Marcus Aurelius,4.28,['Meditations'],1,['Italy'],M
+203,Maren Uthaug,3.62,['11%'],1,['Norway'],F
+204,Margaret Atwood,4.01,"['Oryx and Crake (MaddAddam, #1)']",1,['Canada'],F
+205,Marianne Iben Hansen,4.44,['Gennem sprækkerne'],1,['Denmark'],F
+206,Marjane Satrapi,4.324999999999999,"['The Complete Persepolis', 'Persepolis: The Story of a Childhood (Persepolis, #1)']",2,"['Iran', 'France']",F
+207,Mark Allen Smith,3.66,"['The Inquisitor: A Novel', 'The Inquisitor (Geiger, #1)']",2,['United Kingdom'],M
+208,Mark Lawrence,4.010000000000001,"['Dispel Illusion (Impossible Times, #3)', 'Limited Wish (Impossible Times, #2)', 'One Word Kill (Impossible Times, #1)']",3,['United States of America'],M
+209,Mark Schwartz,4.08,"['A Seat at the Table: IT Leadership in the Age of Agility', 'The Art Of Business Value']",2,['United States of America'],M
+210,Mark Seemann,4.42,['Dependency Injection in .NET'],1,['Denmark'],M
+211,Marko Kloos,4.1,"['Lines of Departure (Frontlines, #2)', 'Terms of Enlistment']",2,['Germany'],M
+212,Martha Wells,4.265,"['Exit Strategy (The Murderbot Diaries, #4)', 'Rogue Protocol (The Murderbot Diaries, #3)', 'Artificial Condition (The Murderbot Diaries, #2)', 'All Systems Red (The Murderbot Diaries, #1)']",4,['United States of America'],F
+213,Martin Jensen,3.53,['Frit gennem Jylland'],1,['Denmark'],M
+214,Mary Doria Russell,4.14,"['The Sparrow (The Sparrow, #1)']",1,['United States of America'],F
+215,Mary Wollstonecraft Shelley,3.87,['Frankenstein: The 1818 Text'],1,['United Kingdom'],F
+216,Matias Faldbakken,3.74,"['Stakkel', 'Stakkar']",2,['Norway'],M
+217,Matt Ruff,4.02,"['Lovecraft Country (Lovecraft Country, #1)']",1,['United States of America'],M
+218,Matthew Mather,3.675,"['The Complete Atopia Chronicles (Atopia Chronicles, #1-6, Atopia, #1)', 'CyberStorm (CyberStorm #1)']",2,['Canada'],M
+219,Matthew Skelton,3.9,"['Remote Team Interactions Workbook: Using Team Topologies Patterns for Remote Working', 'Team Topologies: Organizing Business and Technology Teams for Fast Flow']",2,"['United Kingdom', 'Canada']",M
+220,Max Barry,3.91,['Lexicon'],1,['Australia'],M
+221,Max Brooks,3.85,['The Zombie Survival Guide: Complete Protection from the Living Dead'],1,['United States of America'],M
+222,Michael C. Feathers,4.14,['Working Effectively with Legacy Code'],1,['United States of America'],M
+223,Michael Chabon,3.945,"['The Amazing Adventures of Kavalier & Clay', ""The Yiddish Policemen's Union""]",2,['United States of America'],M
+224,Michael Crichton,3.53,['Next'],1,['United States of America'],M
+225,Michael Katz Krefeld,3.83,"['Afsporet (Ravn, #1)']",1,['Denmark'],M
+226,Michael Lopp,4.18,"['The Art of Leadership: Small Things, Done Well']",1,['United States of America'],M
+227,Michael Scott,4.026666666666666,"['The Sorceress (The Secrets of the Immortal Nicholas Flamel, #3)', 'The Magician (The Secrets of the Immortal Nicholas Flamel, #2)', 'The Alchemyst (The Secrets of the Immortal Nicholas Flamel, #1)']",3,['Republic of Ireland'],M
+228,Michael T. Nygard,4.26,['Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)'],1,['United States of America'],M
+229,Michael White,3.31,['The Borgia Ring'],1,['United Kingdom'],M
+230,Michel Houellebecq,3.8,['The Elementary Particles'],1,['France'],M
+231,Michelle Obama,4.46,['Becoming'],1,['United States of America'],F
+232,Mik Kersten,3.93,['Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework'],1,"['Poland', 'Canada']",M
+233,Mike Ashley,3.66,['The Mammoth Book of Apocalyptic SF'],1,['United Kingdom'],M
+234,Mike Rother,4.19,"['Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results']",1,['United States of America'],M
+235,Milan Kundera,4.11,['The Unbearable Lightness of Being'],1,['Czech Republic'],M
+236,Mira Grant,3.67,"['Parasite (Parasitology, #1)']",1,['United States of America'],F
+237,Mitch Albom,4.37,['The Magic Strings of Frankie Presto'],1,['United States of America'],M
+238,Mohamed Mbougar Sarr,4.19,['La plus secrète mémoire des hommes'],1,['Senegal'],M
+239,Morten Münster,4.19,"['Jytte vender tilbage: Den umoderne guide til at skabe forandringer imod alle odds', 'Jytte fra Marketing er desværre gået for i dag: Sådan bruger du adfærdsdesign til at skabe forandringer i den virkelige verden']",2,['Denmark'],M
+240,N.K. Jemisin,4.17,"['Emergency Skin', 'The Fifth Season (The Broken Earth, #1)']",2,['United States of America'],F
+241,Nassim Nicholas Taleb,4.01,"['Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto)', 'The Black Swan: The Impact of the Highly Improbable', 'Skin in the Game: The Hidden Asymmetries in Daily Life', 'Antifragile: Things That Gain from Disorder']",4,"['United States of America', 'Lebanon']",M
+242,Neal Stephenson,4.115,"['The Confusion (The Baroque Cycle, #2)', 'Quicksilver (The Baroque Cycle, #1)', 'Cryptonomicon', 'Snow Crash']",4,['United States of America'],M
+243,Nega Mezlekia,3.89,"[""Notes from the Hyena's Belly: An Ethiopian Boyhood""]",1,"['Ethiopia', 'Canada']",M
+244,Neil Gaiman,4.164444444444445,"['Norse Mythology', 'The Sandman, Vol. 3: Dream Country', ""The Sandman, Vol. 2: The Doll's House"", 'Norse Mythology', 'The Sandman, Vol. 1: Preludes & Nocturnes', 'The Ocean at the End of the Lane', 'Neverwhere (London Below, #1)', 'American Gods (American Gods, #1)', 'Anansi Boys']",9,['United Kingdom'],M
+245,Neil deGrasse Tyson,4.08,['Astrophysics for People in a Hurry'],1,['United States of America'],M
+246,Nick Harkaway,3.93,['Tigerman'],1,['United Kingdom'],M
+247,Nick Hornby,3.615,"['About a Boy', 'A Long Way Down']",2,['United Kingdom'],M
+248,Nick Tune,4.16,"['Architecture Modernization - Socio-technical alignment of software, strategy, and structure']",1,['United Kingdom'],M
+249,Nicole Forsgren,4.07,['Accelerate: Building and Scaling High Performing Technology Organizations'],1,['United States of America'],F
+250,Niels Overgaard,3.96,['Det hele handler ikke om dig'],1,['Denmark'],M
+251,Niviaq Korneliussen,3.67,['Blomsterdalen'],1,['Greenland'],F
+252,Nnedi Okorafor,3.961111111111111,"['Lagoon', 'Remote Control', 'Who Fears Death (Who Fears Death, #1)', 'Akata Warrior (The Nsibidi Scripts, #2)', 'Akata Witch (The Nsibidi Scripts #1)', 'The Night Masquerade (Binti, #3)', 'Home (Binti, #2)', 'Home (Binti, #2)', 'Binti (Binti, #1)']",9,"['United States of America', 'Nigeria']",F
+253,Octavia E. Butler,4.3,['Kindred'],1,['United States of America'],F
+254,Olga Tokarczuk,3.96,['Drive Your Plow Over the Bones of the Dead'],1,['Poland'],F
+255,Oliver Burkeman,4.04,"[""The Antidote: Happiness for People Who Can't Stand Positive Thinking""]",1,['United Kingdom'],M
+256,Oliver Sacks,4.06,['The Man Who Mistook His Wife for a Hat and Other Clinical Tales'],1,['United Kingdom'],M
+257,Orson Scott Card,4.205,"[""Speaker for the Dead (Ender's Saga, #2)"", ""Ender’s Game (Ender's Saga, #1)""]",2,['United States of America'],M
+258,Paolo Bacigalupi,3.8,"['The Water Knife', 'The Windup Girl']",2,['United States of America'],M
+259,Patricia Cornwell,4.035,"['Body of Evidence (Kay Scarpetta, #2)', 'Postmortem (Kay Scarpetta, #1)']",2,['United States of America'],F
+260,Patrick Lencioni,4.11,['The Five Dysfunctions of a Team'],1,['United States of America'],M
+261,Patrick Rothfuss,4.52,"['The Name of the Wind (The Kingkiller Chronicle, #1)']",1,['United States of America'],M
+262,Patrick Süskind,4.04,['Perfume: The Story of a Murderer'],1,['Germany'],M
+263,Paul Antony Jones,3.775,"['Exodus (Extinction Point, #2)', 'Extinction Point (Extinction Point, #1)']",2,['United Kingdom'],M
+264,Paul Beatty,3.75,['The Sellout'],1,['United States of America'],M
+265,Paul Tremblay,3.76,['The Last Conversation'],1,['United States of America'],M
+266,Paulo Coelho,3.91,['The Alchemist'],1,['Brazil'],M
+267,Peter Clines,3.92,"['The Fold (Threshold, #2)', '14 (Threshold, #1)']",2,['United States of America'],M
+268,Peter F. Hamilton,4.16,"[""Pandora's Star (Commonwealth Saga, #1)"", 'Fallen Dragon', 'The Temporal Void (Void #2)', 'The Dreaming Void (Void, #1)', 'Great North Road']",5,['United Kingdom'],M
+269,Peter Høeg,3.74,"[""Smilla's Sense of Snow""]",1,['Denmark'],M
+270,Peter Sestoft,4.29,['C# Precisely'],1,['Denmark'],M
+271,Peter Watts,4.01,"['Blindsight (Firefall, #1)']",1,['Canada'],M
+272,Peter Wohlleben,4.07,['The Hidden Lives of Trees'],1,['Germany'],M
+273,Philip Pullman,4.02,"['The Golden Compass (His Dark Materials, #1)']",1,['United Kingdom'],M
+274,Phoebe Robinson,3.84,"[""You Can't Touch My Hair: And Other Things I Still Have to Explain""]",1,['United States of America'],F
+275,Pierce Brown,4.369999999999999,"['Golden Son (Red Rising Saga, #2)', 'Red Rising (Red Rising Saga, #1)']",2,['United States of America'],M
+276,Pierre Henri Kuaté,3.54,['NHibernate in Action'],1,['South Africa'],M
+277,Ray Bradbury,3.97,['Fahrenheit 451'],1,['United States of America'],M
+278,Raymond E. Feist,4.19,"['A Darkness At Sethanon (The Riftwar Saga, #4)']",1,['United States of America'],M
+279,Richard Adams,4.08,"['Watership Down (Watership Down, #1)']",1,['United Kingdom'],M
+280,Richard Phillips,3.865,"['Immune (The Rho Agenda, #2)', 'The Second Ship (The Rho Agenda, #1)']",2,['United States of America'],M
+281,Richard Sheridan,4.07,"['Joy, Inc.: How We Built a Workplace People Love']",1,['United States of America'],M
+282,Robert C. Martin,4.27,['The Clean Coder: A Code of Conduct for Professional Programmers'],1,['United States of America'],M
+283,Robert Jordan,4.25,"['The Shadow Rising (The Wheel of Time, #4)', 'The Dragon Reborn (The Wheel of Time, #3)', 'The Great Hunt (The Wheel of Time, #2)', 'The Eye of the World (The Wheel of Time, #1)']",4,['United States of America'],M
+284,Robert Kirkman,4.376666666666666,"['The Walking Dead, Book Six', 'The Walking Dead, Book Five', 'The Walking Dead, Book Four', 'The Walking Dead, Book Three', 'The Walking Dead, Book Two', 'The Walking Dead, Book One']",6,[],M
+285,Robert M. Pirsig,3.78,['Zen and the Art of Motorcycle Maintenance'],1,['United States of America'],M
+286,Robert Wilson,4.04,"['The Ignorance of Blood (Javier Falcon, #4)']",1,['United Kingdom'],M
+287,Robin DiAngelo,4.17,['White Fragility: Why It’s So Hard for White People to Talk About Racism'],1,['United States of America'],F
+288,Robin Hobb,4.216666666666666,"[""Assassin's Quest (Farseer Trilogy, #3)"", 'Royal Assassin (Farseer Trilogy, #2)', ""Assassin's Apprentice (Farseer Trilogy, #1)""]",3,['United States of America'],F
+289,Roger Fisher,3.95,['Getting to Yes: Negotiating an agreement without giving in'],1,"['United Kingdom', 'United States of America']",M
+290,Roy Osherove,4.1,['The Art of Unit Testing: With Examples in .NET'],1,['Israel'],M
+291,Ryk E. Spoor,4.05,"['Grand Central Arena  (Grand Central Arena, #1)']",1,['United States of America'],M
+292,S.S. Taylor,3.99,"[""The Expeditioners and the Treasure of Drowned Man's Canyon""]",1,['United States of America'],F
+293,Sakyong Mipham,3.84,['Running with the Mind of Meditation: Lessons for Training Body and Mind'],1,['India'],M
+294,Sally Rooney,3.81,['Normal People'],1,['Republic of Ireland'],F
+295,Salman Rushdie,3.71,['The Satanic Verses'],1,"['United Kingdom', 'United States of America', 'India']",M
+296,Sam Kean,3.93,"['The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements']",1,['United States of America'],M
+297,Sam Newman,4.21,['Building Microservices: Designing Fine-Grained Systems'],1,['United Kingdom'],M
+298,Scott Chacon,4.18,"[""Pro Git (Expert's Voice in Software Development)""]",1,['United States of America'],M
+299,Scott Jurek,4.02,['Eat & Run: My Unlikely Journey to Ultramarathon Greatness'],1,['United States of America'],M
+300,Sebastian Klein,4.15,['Verdens 100 farligste dyr'],1,['Denmark'],M
+301,Sebastian Lynggard,3.82,['Mandsforræder'],1,['Denmark'],M
+302,Seneca,4.35,['Letters on Ethics: To Lucilius (The Complete Works of Lucius Annaeus Seneca)'],1,['Italy'],M
+303,Seth Godin,3.72,['Meatball Sundae: Is Your Marketing out of Sync?'],1,['United States of America'],M
+304,Shelby Van Pelt,4.4,['Remarkably Bright Creatures'],1,['United States of America'],M
+305,Sherrie Eldridge,3.71,['Twenty Things Adopted Kids Wish Their Adoptive Parents Knew'],1,['United States of America'],F
+306,Sherry Turkle,3.62,['Alone Together: Why We Expect More from Technology and Less from Each Other'],1,['United States of America'],F
+307,Sigrid Undset,4.05,['The Wreath (Kristin Lavransdatter #1)'],1,['Norway'],F
+308,Simon Sinek,3.88,"['Find Your Why: A Practical Guide to Discovering Purpose for You and Your Team', 'Start with Why: How Great Leaders Inspire Everyone to Take Action']",2,['United Kingdom'],M
+309,Simon Toyne,3.83,"['Sanctus (Sancti Trilogy, #1)']",1,['United Kingdom'],M
+310,Simon Wardley,4.29,['Wardley Maps'],1,['United Kingdom'],M
+311,Simone de Beauvoir,4.12,['Memoirs of a Dutiful Daughter'],1,['France'],F
+312,Siri Pettersen,4.12,"['Odinsbarn (Ravneringene, #1)']",1,['Norway'],F
+313,Sissel-Jo Gazan,3.885,"['Uglens øje', 'Dinosaurens fjer', 'Svalens graf', 'Hvide blomster']",4,['Denmark'],F
+314,Sofie Hagen,4.23,['Happy Fat: Taking Up Space in a World That Wants to Shrink You'],1,['Denmark'],F
+315,Stefan Ahnhem,3.97,"['Victim Without a Face (Fabian Risk, #1)']",1,['Sweden'],M
+316,Stefan Zweig,4.27,['Chess Story'],1,['Austria'],M
+317,Stephen King,4.162222222222223,"['Pet Sematary', 'The Drawing of the Three (The Dark Tower, #2)', 'The Gunslinger (The Dark Tower, #1)', '’Salem’s Lot', 'The Waste Lands (The Dark Tower, #3)', 'It', 'The Shining (The Shining, #1)', 'The Stand', 'Full Dark, No Stars']",9,['United States of America'],M
+318,Stephen Moss,4.08,"['Fear the Sky (The Fear Saga, #1)']",1,['United Kingdom'],M
+319,Stephenie Meyer,3.65,"['Twilight (The Twilight Saga, #1)']",1,['United States of America'],M
+320,Steve Freeman,4.19,"['Growing Object-Oriented Software, Guided by Tests']",1,"['United Kingdom', 'United States of America']",M
+321,Steve Martin,3.88,"[""Born Standing Up: A Comic's Life""]",1,['United States of America'],M
+322,Steve Niles,4.17,['I Am Legend'],1,['United States of America'],M
+323,Steven D. Levitt,4.01,['Freakonomics: A Rogue Economist Explores the Hidden Side of Everything'],1,['United States of America'],M
+324,Stieg Larsson,4.22,"['The Girl Who Played with Fire (Millennium, #2)', 'The Girl Who Kicked the Hornet’s Nest (Millennium, #3)', 'The Girl with the Dragon Tattoo (Millennium, #1)']",3,['Sweden'],M
+325,Stine Pilgaard,3.8,['Meter i sekundet'],1,['Denmark'],F
+326,Stuart Russell,4.07,['Human Compatible: AI and the Problem of Control'],1,['United Kingdom'],M
+327,Susan Cain,4.08,"[""Quiet: The Power of Introverts in a World That Can't Stop Talking""]",1,['United States of America'],F
+328,Suzanne Collins,4.34,"['The Hunger Games (The Hunger Games, #1)']",1,"['United Kingdom', 'United States of America', 'Republic of Ireland']",F
+329,Svend Brinkmann,3.62,['Stå fast'],1,['Denmark'],M
+330,Søren Sveistrup,4.2,['Kastanjemanden'],1,['Denmark'],M
+331,Tamsyn Muir,4.21,"['Gideon the Ninth (The Locked Tomb, #1)', 'Gideon the Ninth (The Locked Tomb, #1)']",2,['New Zealand'],F
+332,Tara Westover,4.47,['Educated'],1,['United States of America'],F
+333,Tarjei Vesaas,4.13,['Fuglene'],1,['Norway'],M
+334,Taylor Jenkins Reid,4.42,['The Seven Husbands of Evelyn Hugo'],1,['United States of America'],F
+335,Terry Goodkind,4.076666666666667,"['Blood of the Fold (Sword of Truth, #3)', 'Stone of Tears (Sword of Truth, #2)', ""Wizard's First Rule (Sword of Truth, #1)""]",3,['United States of America'],M
+336,Terry Mancour,3.99,['Spellmonger (The Spellmonger #1)'],1,['United States of America'],M
+337,Terry Pratchett,4.075,"['The Light Fantastic (Discworld, #2; Rincewind, #2)', 'Equal Rites (Discworld, #3; Witches, #1)', 'Mort (Discworld, #4; Death, #1)', 'The Color of Magic (Discworld, #1; Rincewind, #1)']",4,['United Kingdom'],M
+338,Thich Nhat Hanh,4.315,"['Peace Is Every Step: The Path of Mindfulness in Everyday Life', ""The Heart of the Buddha's Teaching: Transforming Suffering into Peace, Joy, and Liberation""]",2,"['Vietnam', 'France']",M
+339,Thomas Clemen,3.55,['Langs smertegrænsen'],1,['Denmark'],M
+340,Thomas Enger,3.73,['Skindød'],1,['Norway'],M
+341,Thomas Korsgaard,3.9466666666666663,"['Man skulle nok have været der', 'En dag vil vi grine af det', 'Hvis der skulle komme et menneske forbi']",3,['Denmark'],M
+342,Thomas Mann,3.7,['Death in Venice'],1,['Germany'],M
+343,Toni Morrison,3.95,['Beloved'],1,['United States of America'],F
+344,Tove Alsterdal,3.38,['Kvinderne på stranden'],1,['Sweden'],F
+345,Trudi Canavan,4.056666666666667,"['The High Lord (Black Magician Trilogy, #3)', 'The Novice (Black Magician Trilogy, #2)', ""The Magicians' Guild (Black Magician Trilogy, #1)""]",3,['Australia'],F
+346,Umberto Eco,3.85875,"['Inventing the Enemy: Essays', 'Serendipities: Language and Lunacy', 'Postscript to the Name of the Rose', 'How to Travel With a Salmon & Other Essays', 'The Island of the Day Before', 'Baudolino', 'Foucault’s Pendulum', 'The Name of the Rose']",8,['Italy'],M
+347,Ursula K. Le Guin,4.09,"['The Farthest Shore (Earthsea Cycle, #3)', 'The Tombs of Atuan (Earthsea Cycle, #2)', 'A Wizard of Earthsea (Earthsea Cycle, #1)']",3,['United States of America'],F
+348,V.E. Schwab,4.19,['The Invisible Life of Addie LaRue'],1,['United States of America'],F
+349,Vaughn Heppner,3.86,"['Alien Honor (Fenris, #1)']",1,['Canada'],M
+350,Vaughn Vernon,4.06,['Implementing Domain-Driven Design'],1,['United States of America'],M
+351,Vernor Vinge,4.225,"['A Deepness in the Sky', 'A Fire Upon the Deep']",2,['United States of America'],M
+352,Veronica Roth,3.87,"['Ark', 'Divergent (Divergent, #1)']",2,['United States of America'],F
+353,Viktor E. Frankl,4.34,['Psykologi og eksistens'],1,['Austria'],M
+354,Virginia Woolf,3.975,"['The Waves', 'To the Lighthouse']",2,['United Kingdom'],F
+355,Vladik Khononov,4.47,['Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy'],1,['Israel'],M
+356,Vladimir Nabokov,3.88,['Lolita'],1,['Russia'],M
+357,Walter Isaacson,4.16,['Einstein: His Life and Universe'],1,['United States of America'],M
+358,Wes McKinney,4.17,['Python for Data Analysis'],1,['United States of America'],M
+359,Wildbow,4.61,"['Worm (Parahumans, #1)']",1,['Canada'],M
+360,William Gibson,3.855555555555556,"['Alien III', 'Virtual Light (Bridge Trilogy, #1)', 'Pattern Recognition (Blue Ant, #1)', 'The Peripheral (Jackpot #1)', 'Zero History (Blue Ant, #3)', 'Spook Country (Blue Ant, #2)', 'Mona Lisa Overdrive (Sprawl, #3)', 'Count Zero (Sprawl, #2)', 'Neuromancer (Sprawl, #1)']",9,['United States of America'],M
+361,William Golding,3.69,['Lord of the Flies'],1,['United Kingdom'],M
+362,William Hertling,3.953333333333333,"['Avogadro Corp (Singularity, #1)', 'The Last Firewall (Singularity, #3)', 'A.I. Apocalypse (Singularity, #2)']",3,['United States of America'],M
+363,William Peter Blatty,4.2,['The Exorcist'],1,['United States of America'],M
+364,Yann Martel,3.94,['Life of Pi'],1,['Canada'],M
+365,Yuval Noah Harari,4.36,['Sapiens: A Brief History of Humankind'],1,['Israel'],M
+366,bell hooks,4.37,"['The Will to Change: Men, Masculinity, and Love']",1,['United States of America'],F
+367,Ágota Kristóf,4.41,"['The Notebook, The Proof, The Third Lie: Three Novels']",1,"['Switzerland', 'Hungary']",F
+368,Édouard Louis,4.32,['Forvandlingens metode'],1,['France'],M

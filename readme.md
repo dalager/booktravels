@@ -6,7 +6,7 @@ Goodreads doesn't show me where my book list authors are from, so I exported my 
 
 This is not a plug-and-play solution but a starter for people who want to do the same.
 
-![alt text](mydistribution.png)
+![alt text](booksbycountry.png)
 
 ## Prerequisites
 
@@ -24,8 +24,14 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Export your Goodreads data as CSV and save it in the `data` folder.
+1. Export your Goodreads data as CSV and save it in the `data/sources` folder.
 
-2. Work in the [scratchpad.ipynb](src/scratchpad.ipynb) Jupyter notebook to get the countries of the authors of the books you read.
+2. Work in the [create_datasets.ipynb](src/create_datasets.ipynb) Jupyter notebook to get the countries of the authors of the books you read.
 
-3. Manually adjust the [manually_placed.csv](data/manually_placed.csv) file to your needs.
+3. Manually adjust the [/data/sources/author_country_corrections.csv](data/sources/author_country_corrections.csv) file to your needs.
+
+4. run the Jupyter notebook `country_distribution.ipynb` to get the distribution of the countries of the authors of the books you read.
+
+5. run the Jupyter notebook `gender_distribution.ipynb` if you want to diversify beyond the nation state borders :)
+
+![alt text](booksbygender.png)
